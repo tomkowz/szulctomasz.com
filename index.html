@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% include hello-message.html %}
+  <!-- Latest  -->
+  <h1 class="page-heading">Latest</h1>
+  <ul class="post-list">
+    {% assign newest_post = site.posts.first %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ newest_post.url | prepend: site.baseurl }}">{{ newest_post.title }}</a> <span class="post-meta">- {{ newest_post.date | date: "%b %-d" }}</span>
+      </h2>
+      <p class="post-excerpt">{{ newest_post.excerpt }}</p>
+    </li>
+  </ul>
+  <!-- End Latest -->
+
+  <!-- Recent Articles -->
+  <h1 class="page-heading">Recent Articles</h1>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      {% if forloop.first %}
+        {% continue %}
+      {% endif %}
+
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-excerpt">{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <!-- End Recent Articles -->
+
+  <a href="/blog.html">← Older Articles</a>
+</div>
