@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Low Power Mode"
 tags: ios, ios9, low power mode, swift, xcode
-id: post-21
+post_id: post-21
 redirect_from: "/ios-low-power-mode/"
 ---
 *"Even longer battery life."* - Apple says. Low Power Mode is a new feature of

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Realm instead of Core Data"
 tags: ios, swift, realm, core data
-id: post-41
+post_id: post-41
 excerpt: "Let's take a look how easy to use Realm is."
 redirect_from: "/ios-realm-instead-of-coredata/"
 ---

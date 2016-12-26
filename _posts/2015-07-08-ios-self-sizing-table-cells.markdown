@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Self-sizing table cells"
 tags: ios, swift, wwdc, uitableview
-id: post-12
+post_id: post-12
 redirect_from: "/ios-self-sizing-table-cells/"
 ---
 Watched WWDC 2015 session about Auto Layout - [Mysteries of Auto Layout, Part 1][wwdc-218] and encountered issues during testing what Kasia Wawer presented there.
@@ -40,5 +40,5 @@ Let's run app again... It works. This works on iOS 7, 8 and 9.
 [wwdc-219]: https://developer.apple.com/videos/wwdc/2015/?id=219
 [quotes]: https://github.com/tomkowz/Quotes
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png

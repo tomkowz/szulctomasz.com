@@ -2,7 +2,7 @@
 layout: post
 title: "Swift: Why Float, Double and Int are AnyObjects?"
 tags: ios, swift
-id: post-36
+post_id: post-36
 redirect_from: "/swift-why-float-double-and-int-are-anyobjects/"
 ---
 This is a [question][so-1] I asked yesterday, and copy-pasted my question details

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Second try to NSOperation and long running tasks"
 tags: ios, nsoperation, swift
-id: post-17
+post_id: post-17
 redirect_from: "/ios-second-try-to-nsoperation-and-long-running-tasks/"
 ---
 Yesterday I wrote about [using NSOperation for background tasks][previous-post].

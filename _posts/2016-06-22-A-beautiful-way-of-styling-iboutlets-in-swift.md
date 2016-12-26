@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: A Beautiful Way of Styling IBOutlets in Swift"
 tags: ios, swift, iboutlets, storyboards
-id: post-52
+post_id: post-52
 excerpt: "Trim Your View Controller With This IBOutlet Trick"
 permalink: /ios-a-beautiful-way-of-styling-iboutlets-in-swift/
 ---
@@ -349,4 +349,4 @@ class ManyLabelsViewController: UIViewController {
 {% endhighlight %}
 
 
-[img1]: /uploads/{{page.id}}/img1.png
+[img1]: /uploads/{{page.post_id}}/img1.png

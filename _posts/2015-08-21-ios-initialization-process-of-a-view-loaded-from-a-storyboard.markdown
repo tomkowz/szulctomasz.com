@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Initialization process of a view loaded from a storyboard"
 tags: ios
-id: post-32
+post_id: post-32
 redirect_from: "/ios-initialization-process-of-a-view-loaded-from-a-storyboard/"
 ---
 This post is continuation of the
@@ -76,5 +76,5 @@ So... Yeah, I hope it helps in understanding the flow better.
 
 [prev-post-1]: http://szulctomasz.com/ios-uiviewcontrollers-view-loading-process-demystified/
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png

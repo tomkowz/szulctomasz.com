@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: NSNumberFormatter additions in iOS 9"
 tags: ios, ios9, swift
-id: post-4
+post_id: post-4
 redirect_from: "/nsnumberformatter-additions-in-ios-9/"
 ---
 I've read changes in iOS 9 APIs and found interesting addition in

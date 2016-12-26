@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: XCConfig files for managing targets configurations"
 tags: swift, xcode
-id: post-40
+post_id: post-40
 excerpt: "Easier configuration management using XCConfig files."
 redirect_from: "/xcode-xcconfig-files-for-managing-targets-configurations/"
 ---
@@ -161,4 +161,4 @@ compared to what I had before using this solution.
 [firefox]: https://github.com/mozilla/firefox-ios
 [gh-demo]: https://github.com/tomkowz/demo-xcconfig
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

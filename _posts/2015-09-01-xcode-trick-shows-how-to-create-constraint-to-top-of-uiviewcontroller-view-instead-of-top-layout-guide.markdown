@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: Trick shows how to create constraint to Top of UIViewController's view instead of Top To Layout Guide"
 tags: ios, auto layout, xcode
-id: post-33
+post_id: post-33
 redirect_from: "/constraint-to-top-instead-of-top-layout-guide/"
 ---
 This is a pretty useful trick that my colleague [Piotr Tobolski][piotr-twitter]
@@ -36,6 +36,6 @@ Thanks Piotr!
 
 [piotr-twitter]: https://pl.linkedin.com/in/piotrtobolski
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
-[img-3]: /uploads/{{page.id}}/3.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png
+[img-3]: /uploads/{{page.post_id}}/3.png

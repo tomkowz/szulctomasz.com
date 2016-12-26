@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: New NSManagedObject subclass generator"
 tags: ios, swift, core data, xcode
-id: post-16
+post_id: post-16
 redirect_from: "/xcode-new-nsmanagedobject-subclass-generator/"
 ---
 Xcode 7 includes new generator of NSManagedObject subclasses and it works for

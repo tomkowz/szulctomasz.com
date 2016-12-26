@@ -2,7 +2,7 @@
 layout: post
 title: "Swift: Enums without explicit string raw values"
 tags: ios, swift
-id: post-13
+post_id: post-13
 redirect_from: "/swift-2-enums-without-explicit-string-raw-values/"
 ---
 Xcode 7 beta 3 brought us changes in Swift 2.0 language - It is not necessary

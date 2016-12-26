@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: UIViewController's view loading process demystified"
 tags: ios, ios9, swift
-id: post-26
+post_id: post-26
 redirect_from: "/ios-uiviewcontrollers-view-loading-process-demystified/"
 ---
 [@NatashaTheRobot][natasha-twitter] posted about testing view controllers and
@@ -134,6 +134,6 @@ is the best one when testing view controllers.
 [wwdc-407]: https://developer.apple.com/videos/wwdc/2015/?id=407
 [artsy-github]: https://github.com/artsy/eigen/blob/master/Artsy_Tests/Extensions/UIViewController+PresentWithFrame.m#L20-L22
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
-[img-3]: /uploads/{{page.id}}/3.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png
+[img-3]: /uploads/{{page.post_id}}/3.png

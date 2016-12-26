@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts and impressions after creating and submitting 2048 game in 10 hours"
 tags: ios, swift, thoughts
-id: post-27
+post_id: post-27
 redirect_from: "/thoughts-and-impressions-game-submitted-in-10-hours/"
 ---
 That was pretty effective Saturday. Writing game was an interesting process and
@@ -241,4 +241,4 @@ testing them on a paper.
 [post-1]: http://szulctomasz.com/xcode-pdf-vectors-in-assets-catalog/
 [mvvm]: https://en.wikipedia.org/wiki/Model_View_ViewModel
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

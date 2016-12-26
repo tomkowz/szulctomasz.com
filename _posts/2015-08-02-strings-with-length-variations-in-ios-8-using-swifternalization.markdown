@@ -2,7 +2,7 @@
 layout: post
 title: "Strings with length variations in iOS 8 with Swifternalization"
 tags: ios, swift, swifternalization
-id: post-25
+post_id: post-25
 redirect_from: "/strings-with-length-variations-in-ios-8-0-using-swifternalization-1-2/"
 ---
 iOS 9.0 provides new way to select and display proper localized string variation

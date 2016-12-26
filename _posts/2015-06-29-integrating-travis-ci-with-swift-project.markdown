@@ -2,7 +2,7 @@
 layout: post
 title: "Integrating Travis CI with Swift project"
 tags: ci, swift, travis
-id: post-7
+post_id: post-7
 redirect_from: "/integrating-travis-ci-with-swift-project/"
 ---
 Finally I successfully integrated [Travis CI][travis] with [Swifternalization][swifternalization]. I spent some time finding ready-to-go 
@@ -72,4 +72,4 @@ Hope it will pass :)
 [blog-1]: http://blog.travis-ci.com/2015-05-26-xcode-63-beta-general-availability/
 [travis-2]: http://docs.travis-ci.com/user/languages/objective-c/
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

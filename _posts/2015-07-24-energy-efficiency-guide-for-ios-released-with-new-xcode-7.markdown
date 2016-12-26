@@ -2,7 +2,7 @@
 layout: post
 title: "Energy Efficiency Guide for iOS released with new Xcode 7 beta 4"
 tags: ios
-id: post-23
+post_id: post-23
 redirect_from: "/energy-efficiency-guide-for-ios-released-with-new-xcode-7-beta-4/"
 ---
 Apple released ["Energy Efficiency Guide for iOS Apps"][docs] few days ago when

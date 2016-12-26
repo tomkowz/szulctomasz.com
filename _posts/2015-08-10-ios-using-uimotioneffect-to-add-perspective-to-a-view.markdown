@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Using UIMotionEffect to add perspective to a view when tilting device"
 tags: ios, swift, uimotioneffect
-id: post-30
+post_id: post-30
 redirect_from: "/ios-using-uimotioneffect-to-add-perspective-to-a-view-when-tilting-device/"
 ---
 `UIMotionEffect` is a class that provides motion-based modifiers for views.

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Undo and redo with NSUndoManager"
 tags: ios, ios9, nsundomanager, swift
-id: post-35
+post_id: post-35
 redirect_from: "/ios-undo-and-redo-with-nsundomanager/"
 ---
 `NSUndoManager` was mysterious thing to me for a really long time. I wanted to
@@ -269,5 +269,5 @@ right? The code is better designed.
 [gh-repo]: https://github.com/tomkowz/undo-manager-practice
 [yt-demo]: https://youtu.be/3Pk85X8bugk
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png

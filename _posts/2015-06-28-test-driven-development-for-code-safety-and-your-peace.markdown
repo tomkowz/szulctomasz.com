@@ -2,7 +2,7 @@
 layout: post
 title: "Test Driven Development for code safety and your peace"
 tags: ios, tdd
-id: post-6
+post_id: post-6
 redirect_from: "/test-driven-development-for-code-safety-and-your-peace/"
 ---
 Today I spent time working on one framework I would like to share end of this

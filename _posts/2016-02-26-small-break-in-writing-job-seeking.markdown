@@ -2,7 +2,7 @@
 layout: post
 title: "Small break in writing - job seeking"
 tags: general, job
-id: post-47
+post_id: post-47
 excerpt: "Seeking for a job is hard and very time consuming. I'll be back soon."
 redirect_from: "/small-break-in-writing-job-seeking/"
 ---

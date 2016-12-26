@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Strings with length variations"
 tags: ios, ios9, swift
-id: post-19
+post_id: post-19
 redirect_from: "/ios-strings-with-length-variations/"
 ---
 iOS 9.0 SDK provides new way to select and display proper localized string

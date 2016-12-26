@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Simplifying view controller's code and a view hierarchy in storyboard"
 tags: ios, swift
-id: post-3
+post_id: post-3
 redirect_from: "/simplifying-a-view-controllers-code-and-a-storyboard/"
 ---
 I'll show a way how to create custom controls/components and how to reduce the
@@ -124,7 +124,7 @@ so far I see only benefits - the code is simpler, the code is cleaner, more
 readable, easier to maintenance and the control is more reusable because in
 the storyboard there is only the placeholder for the control.
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
-[img-3]: /uploads/{{page.id}}/3.png
-[img-4]: /uploads/{{page.id}}/4.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png
+[img-3]: /uploads/{{page.post_id}}/3.png
+[img-4]: /uploads/{{page.post_id}}/4.png

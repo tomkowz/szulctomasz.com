@@ -2,7 +2,7 @@
 layout: post
 title: "How do I build a Network Layer"
 tags: ios, swift, network layer, request, response, design, diagram, parser, mapper, mapping
-id: post-53
+post_id: post-53
 excerpt: "Reusable, easy to build and maitain network layer with almost 100% test coverage"
 permalink: /how-do-I-build-a-network-layer/
 ---
@@ -625,7 +625,7 @@ JSON elements.
 
 Here is diagram that presents the network layer architecture.
 
-[![diagram][diagram]](/uploads/{{page.id}}/diagram.png)
+[![diagram][diagram]](/uploads/{{page.post_id}}/diagram.png)
 
 ### Example project
 You can find an example project here [on my github](https://github.com/tomkowz/NetworkLayerExample).
@@ -643,4 +643,4 @@ cover a super hard cases, because there is no such cases at all.
 - The core of it is easy to reuse in other applications that have similar complexity.
 
 
-[diagram]: /uploads/{{page.id}}/diagram.png
+[diagram]: /uploads/{{page.post_id}}/diagram.png

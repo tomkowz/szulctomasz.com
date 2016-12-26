@@ -2,7 +2,7 @@
 layout: post
 title: "Redesigned blog and changed to Jekyll"
 tags: general
-id: post-48
+post_id: post-48
 excerpt: "Migrated the blog from Wordpress to Jekyll."
 ---
 I thought about this migration for a bit last few months, but never had
@@ -64,4 +64,4 @@ Good, now I just need to write posts on the blog.
 [middleman]: https://github.com/middleman/middleman
 [migration-tool]: https://import.jekyllrb.com/docs/wordpressdotcom/
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

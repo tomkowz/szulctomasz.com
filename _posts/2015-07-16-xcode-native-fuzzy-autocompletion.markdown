@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: Native Fuzzy Autocompletion"
 tags: xcode
-id: post-18
+post_id: post-18
 redirect_from: "/xcode7-native-fuzzy-autocompletion/"
 ---
 [@hamzasood][hamzasood] (Thanks!) mentioned about hidden feature in Xcode7 - Fuzzy Autocompletion.
@@ -32,4 +32,4 @@ defaults write com.apple.dt.Xcode IDEWorkaroundForRadar6288283 3
 
 [hamzasood]: http://twitter.com/hamzasood
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

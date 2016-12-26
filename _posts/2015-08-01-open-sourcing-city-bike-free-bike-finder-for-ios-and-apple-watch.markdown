@@ -2,7 +2,7 @@
 layout: post
 title: "Open Sourcing City Bike, Free Bike Finder app for iOS and Apple Watch"
 tags: ios, swift, citybike, open source, watchos
-id: post-24
+post_id: post-24
 redirect_from: "/open-sourcing-city-bike-finder/"
 ---
 I was working on [City Bike][store] app for some time recently. Today I am

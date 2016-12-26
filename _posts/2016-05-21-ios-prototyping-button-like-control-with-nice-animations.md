@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Prototyping button-like control with nice animations"
 tags: ios, custom control, uicontrol, animations
-id: post-50
+post_id: post-50
 excerpt: "Again inspired by work on dribbble.com - Building control on top of UIControl"
 ---
 
@@ -292,10 +292,10 @@ self.updateAfterButtonStateChanged(.Begin)
 
 
 
-[gif-1]: /uploads/{{page.id}}/gif-1.gif
-[gif-2]: /uploads/{{page.id}}/gif-2.gif
-[gif-3]: /uploads/{{page.id}}/gif-3.gif
-[gif-4]: /uploads/{{page.id}}/gif-4.gif
-[gif-5]: /uploads/{{page.id}}/gif-5.gif
-[gif-6]: /uploads/{{page.id}}/gif-6.gif
-[schema]: /uploads/{{page.id}}/schema.png
+[gif-1]: /uploads/{{page.post_id}}/gif-1.gif
+[gif-2]: /uploads/{{page.post_id}}/gif-2.gif
+[gif-3]: /uploads/{{page.post_id}}/gif-3.gif
+[gif-4]: /uploads/{{page.post_id}}/gif-4.gif
+[gif-5]: /uploads/{{page.post_id}}/gif-5.gif
+[gif-6]: /uploads/{{page.post_id}}/gif-6.gif
+[schema]: /uploads/{{page.post_id}}/schema.png

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Selecting audio inputs"
 tags: ios, swift, avfoundation
-id: post-46
+post_id: post-46
 excerpt: "Getting proper audio input for audio recording."
 redirect_from: "/ios-selecting-audio-inputs/"
 ---

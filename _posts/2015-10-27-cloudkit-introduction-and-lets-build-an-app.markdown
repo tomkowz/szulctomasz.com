@@ -2,7 +2,7 @@
 layout: post
 title: "CloudKit: Introduction and let's build an app"
 tags: ios, swift, icloud, cloudkit
-id: post-39
+post_id: post-39
 excerpt: "CloudKit getting started."
 redirect_from: "/cloudkit-introduction-and-lets-build-an-app/"
 ---
@@ -505,6 +505,6 @@ stuff works.
 [forum-2]: https://forums.developer.apple.com/message/80647#80647
 [gh-repo]: https://github.com/tomkowz/cloudkit-demo-goatstagram
 [parse]: http://parse.com
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
-[img-3]: /uploads/{{page.id}}/3.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png
+[img-3]: /uploads/{{page.post_id}}/3.png

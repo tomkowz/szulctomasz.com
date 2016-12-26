@@ -2,7 +2,7 @@
 layout: post
 title: "Swift: Detach completion handler of a method to a function"
 tags: swift
-id: post-43
+post_id: post-43
 excerpt: "It makes your code a bit cleaner."
 redirect_from: "/swift-detach-completion-handler-of-a-method-to-a-function/"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "CocoaPods: Ensure that your team uses the same version to install pods"
 tags: cocoapods
-id: post-44
+post_id: post-44
 excerpt: "A trick that help you and your team in cocoapods install and updating process."
 redirect_from: "/cocoapods-ensure-that-your-team-uses-the-same-cocoapods-version-to-install-pods/"
 ---

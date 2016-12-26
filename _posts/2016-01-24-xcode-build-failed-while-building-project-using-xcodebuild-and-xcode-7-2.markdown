@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: BUILD FAILED while building project using xcodebuild and Xcode 7.2"
 tags: xcode, bug, xcodebuild
-id: post-45
+post_id: post-45
 excerpt: "Workaround for building project for simulator using xcodebuild and Xcode 7.2."
 redirect_from: "/build-failed-while-building-project-using-xcodebuild-and-xcode-7-2/"
 ---

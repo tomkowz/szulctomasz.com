@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Searching with UISearchController"
 tags: ios, swift, uisearchcontroller
-id: post-14
+post_id: post-14
 redirect_from: "/ios-searching-with-uisearchcontroller/"
 ---
 iOS 8 brought a lot of new APIs for developers. One of them is new API used for searching. Before iOS 8 we're using `UISearchDisplayController`. Since iOS 8
@@ -198,4 +198,4 @@ I personally like the new API.
 [quotes]: https://github.com/tomkowz/Quotes
 [previous-post]: http://szulctomasz.com/starting-project-in-swift-2-for-ios-9-8-features-testing/
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

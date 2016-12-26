@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Custom View Controller Transition by expanding view"
 tags: ios, custom transition, view controller
-id: post-49
+post_id: post-49
 excerpt: "Implemented custom view controller transition inspired by work on dribbble.com"
 ---
 I was looking for inspirations on *dribbble.com* and found work
@@ -256,7 +256,7 @@ Here is one way you can use it programatically:
 }
 {% endhighlight %}
 
-[img-1]: /uploads/{{page.id}}/transition-1.gif
-[img-2]: /uploads/{{page.id}}/transition-2.gif
-[img-3]: /uploads/{{page.id}}/transition-3.gif
-[img-4]: /uploads/{{page.id}}/transition-4.gif
+[img-1]: /uploads/{{page.post_id}}/transition-1.gif
+[img-2]: /uploads/{{page.post_id}}/transition-2.gif
+[img-3]: /uploads/{{page.post_id}}/transition-3.gif
+[img-4]: /uploads/{{page.post_id}}/transition-4.gif

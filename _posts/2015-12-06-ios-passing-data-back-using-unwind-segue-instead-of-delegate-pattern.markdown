@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Passing data back using unwind segue instead of delegate pattern"
 tags: ios, swift
-id: post-42
+post_id: post-42
 excerpt: "Nice way to pass data back without using delegate pattern."
 redirect_from: "/ios-passing-data-back-using-unwind-segue-instead-of-delegate-pattern/"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Starting project in Swift 2 for iOS 9/8 features testing"
 tags: ios, carthage, nimble, quick, bdd, swift, tdd
-id: post-11
+post_id: post-11
 redirect_from: "/starting-project-in-swift-2-for-ios-9-8-features-testing/"
 ---
 Today I started new project on github, called [Quotes][quotes]. It has been

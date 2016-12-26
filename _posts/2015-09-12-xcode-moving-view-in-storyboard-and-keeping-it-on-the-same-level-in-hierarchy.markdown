@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: Moving view in storyboard and keeping it on the same level in hierarchy"
 tags: ios, xcode
-id: post-34
+post_id: post-34
 redirect_from: "/xcode-moving-view-in-storyboard-and-keeping-it-on-the-same-level-in-hierarchy/"
 ---
 I am playing a bit with storyboards and was thinking if there is a way to move

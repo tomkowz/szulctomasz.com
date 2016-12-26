@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode: PDF vectors in Assets catalog"
 tags: xcode
-id: post-10
+post_id: post-10
 redirect_from: "/xcode-pdf-vectors-in-assets-catalog/"
 ---
 Recently I realized that it is possible to work easier with Assets catalog in
@@ -32,6 +32,6 @@ And the best part is how it looked before and now with PDFs.
 
 [sketch]: http://www.bohemiancoding.com/sketch/
 
-[img-1]: /uploads/{{page.id}}/1.png
-[img-2]: /uploads/{{page.id}}/2.png
-[img-3]: /uploads/{{page.id}}/3.png
+[img-1]: /uploads/{{page.post_id}}/1.png
+[img-2]: /uploads/{{page.post_id}}/2.png
+[img-3]: /uploads/{{page.post_id}}/3.png

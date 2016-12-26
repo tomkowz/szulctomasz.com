@@ -2,7 +2,7 @@
 layout: post
 title: "Swift: Failable Enums with Optionals"
 tags: ios, swift
-id: post-2
+post_id: post-2
 redirect_from: "/failable-enums-with-optionals/"
 ---
 

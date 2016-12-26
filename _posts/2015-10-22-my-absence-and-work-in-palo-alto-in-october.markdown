@@ -2,7 +2,7 @@
 layout: post
 title: "My absence and work in Palo Alto in October"
 tags: general, california
-id: post-38
+post_id: post-38
 excerpt: "Working and enjoying free time in California."
 redirect_from: "/my-absence-and-work-in-palo-alto-in-october/"
 ---
@@ -36,5 +36,5 @@ San Francisco. If you're reading the blog and will be there, say Hi to me :)
 [feedly]: http://feedly.com/i/subscription/feed/http://szulctomasz.com/feed/
 [realm]: http://www.meetup.com/swift-language/events/225709876/
 
-[img-1]: /uploads/{{page.id}}/1.jpg
-[img-2]: /uploads/{{page.id}}/2.jpg
+[img-1]: /uploads/{{page.post_id}}/1.jpg
+[img-2]: /uploads/{{page.post_id}}/2.jpg

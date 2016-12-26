@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Unit testing in Swift and CLPlacemark mocking"
 tags: ios, swift, unit testing, tdd
-id: post-8
+post_id: post-8
 redirect_from: "/unit-testing-in-swift-with-clplacemark/"
 ---
 Joined one project yesterday and I am responsible for converting few Objective-C

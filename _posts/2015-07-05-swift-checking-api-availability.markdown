@@ -2,7 +2,7 @@
 layout: post
 title: "Swift: Checking API availability"
 tags: ios, swift
-id: post-9
+post_id: post-9
 redirect_from: "/swift-2-check-availability/"
 ---
 This is very nice addition in Swift 2. It provides API availability checking

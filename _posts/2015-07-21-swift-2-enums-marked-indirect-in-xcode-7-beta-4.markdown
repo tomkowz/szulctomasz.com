@@ -2,7 +2,7 @@
 layout: post
 title: "Swift 2: Enums marked \"indirect\" in Xcode 7 beta 4"
 tags: swift, indirect enum, xcode
-id: post-20
+post_id: post-20
 redirect_from: "/swift2-enums-marked-indirect-in-xcode-7-beta-4/"
 ---
 Apple released Xcode 7 beta 4 today with some fixes and many improvements of

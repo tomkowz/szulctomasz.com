@@ -2,7 +2,7 @@
 layout: post
 title: "Swifternalization - localize apps smarter"
 tags: ios, swift, open source, swifternalization
-id: post-5
+post_id: post-5
 redirect_from: "/swifternalization-localize-apps-smarter/"
 ---
 I am happy to annouce my new framework written in Swift I built this week,

@@ -2,7 +2,7 @@
 layout: post
 title: "Finding contours on paper sheet scans"
 tags: osx, machine learning, swift
-id: post-51
+post_id: post-51
 excerpt: "First step to handwritten digits recognition - collecting data from paper sheet scans"
 ---
 
@@ -345,8 +345,8 @@ book that covers a lot of details about neural networks for digits recognition.
 
 [book]: http://neuralnetworksanddeeplearning.com/index.html
 [course]: https://www.coursera.org/learn/machine-learning
-[picture-1]: /uploads/{{page.id}}/picture-1.png
-[app-screenshot]: /uploads/{{page.id}}/app-screenshot.png
-[detecting-1]: /uploads/{{page.id}}/detecting-1.png
-[animation]: /uploads/{{page.id}}/animation.gif
+[picture-1]: /uploads/{{page.post_id}}/picture-1.png
+[app-screenshot]: /uploads/{{page.post_id}}/app-screenshot.png
+[detecting-1]: /uploads/{{page.post_id}}/detecting-1.png
+[animation]: /uploads/{{page.post_id}}/animation.gif
 [li-piotr]: https://pl.linkedin.com/in/piotrtobolski

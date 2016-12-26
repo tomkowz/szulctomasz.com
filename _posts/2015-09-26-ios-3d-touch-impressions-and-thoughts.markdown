@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: 3D Touch, impressions and thoughts"
 tags: ios
-id: post-37
+post_id: post-37
 excerpt: "Few thoughts about 3D Touch."
 redirect_from: "/3d-touch-impressions-and-thoughts/"
 ---

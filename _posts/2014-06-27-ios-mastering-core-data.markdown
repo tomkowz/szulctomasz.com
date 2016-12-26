@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Mastering Core Data"
 tags: ios, swift
-id: post-1
+post_id: post-1
 redirect_from: "/mastering-core-data/"
 ---
 Need to master Core Data? I finished reading one book right now, it's really great.

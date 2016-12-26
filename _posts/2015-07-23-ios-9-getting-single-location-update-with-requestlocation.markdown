@@ -2,7 +2,7 @@
 layout: post
 title: "iOS 9: Getting single location update with requestLocation()"
 tags: ios, ios9, swift, core location
-id: post-22
+post_id: post-22
 redirect_from: "/ios-9-getting-single-location-update-with-requestlocation/"
 ---
 Apple added new API to CoreLocation framework. One of the available methods

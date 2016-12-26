@@ -2,7 +2,7 @@
 layout: post
 title: "iOS: Using NSOperation for background tasks"
 tags: ios, gcd, nsoperation, swift, wwdc
-id: post-15
+post_id: post-15
 redirect_from: "/ios-using-nsoperation-for-background-tasks/"
 ---
 I has been inspired by this great [Advanced NSOperations][wwdc-226] WWDC 2015
@@ -297,4 +297,4 @@ increments counter of readings selected quote.
 [parse]: https://parse.com
 [previous-post-2]: http://szulctomasz.com/ios-second-try-to-nsoperation-and-long-running-tasks/
 
-[img-1]: /uploads/{{page.id}}/1.png
+[img-1]: /uploads/{{page.post_id}}/1.png

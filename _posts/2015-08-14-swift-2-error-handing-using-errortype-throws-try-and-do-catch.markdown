@@ -2,7 +2,7 @@
 layout: post
 title: "Swift 2: Error handling using ErrorType, throws, try and do-catch"
 tags: ios, swift
-id: post-31
+post_id: post-31
 redirect_from: "/swift-2-error-handling-using-errortype-throws-try-and-do-catch/"
 ---
 Swift 2.0 brought us `ErrorType`. Let's take a brief look on it.
