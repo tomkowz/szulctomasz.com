@@ -1,14 +1,12 @@
-# Site settings
 title: Tomasz Szulc
 email: mail@szulctomasz.com
-description: >
-  iOS Software Engineer. Swift. Objective-C. Programming. Tips. Tricks.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://szulctomasz.com" # the base hostname & protocol for your site
+description: "iOS Software Engineer. Swift. Objective-C. Programming. Tips. Tricks."
+
+url: http://szulctomasz.com
+baseurl: ""
+
 twitter_username: tomkowz
-# github_username: tomkowz
-repository: tomkowz/szulctomasz.com
-# Build settings
+
 markdown: kramdown
 highlighter: rouge
 
