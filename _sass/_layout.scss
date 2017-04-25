@@ -175,7 +175,7 @@
 }
 
 .page-heading {
-    margin-top: 50px;
+    margin-top: 30px;
     font-size: 30px;
     font-weight: 200;
 }
@@ -294,4 +294,19 @@ share-page.html
   text-align: right;
   margin-bottom: -20px;
   padding: 5px;
+}
+
+/**
+open-for-work.html
+*/
+.note {
+    font-size: 15px;
+    padding: 10px;
+    background-color: RGB(255, 248, 197);
+    border: 1px solid RGB(249, 233, 136);
+    margin: 10px 0px 20px 0px;
+}
+
+.note p {
+    margin: 0;
 }
